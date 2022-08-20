@@ -10,7 +10,7 @@ Password : admin
 # Cara Instalasi
 <ul>
      <li> Ekstrak arsip / file zip yang telah didownload </li>
-     <li> Buka folder "e-perpus-main" </li>
+     <li> Buka folder "Perpus" </li>
      <li> Pindahkan semua file dan folder di dalam folder "e-perpus-main" ke dalam folder Localhost (htdocs) </li>
      <li> Buka XAMPP </li>
      <li> Start Module Apache dan Module MySQL </li>
@@ -28,7 +28,6 @@ Password : admin
 # Terima Kasih
 <ul>
     <li> AdminLTE </li>
-    <li> PT. Pacifica Raya Technology </li>
     <li> Stackover Flow </li>
     <li> Google </li>
     <li> Github </li>
